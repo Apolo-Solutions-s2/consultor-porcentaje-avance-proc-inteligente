@@ -1,0 +1,4 @@
+functions-framework==3.*
+flask
+google-cloud-logging>=3.10.0
+google-auth>=2.0.0
